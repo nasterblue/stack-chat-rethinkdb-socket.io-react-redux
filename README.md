@@ -7,7 +7,7 @@
 * RethinkDB
 * Express
 * Socket.IO
-
+* [Changefeeds lie at the heart of RethinkDB’s real-time functionality.](https://rethinkdb.com/docs/changefeeds/javascript/)
 # Requirement
 * [rethinkdb](https://rethinkdb.com/)
 
